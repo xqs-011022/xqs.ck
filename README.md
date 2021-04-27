@@ -1,2 +1,2 @@
 # xqs.ck
-This is  no so much thing 
+This is  no so much thing
